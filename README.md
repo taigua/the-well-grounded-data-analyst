@@ -1,9 +1,11 @@
 # The Well-Grounded Data Analyst
-Learn `The Well-Grounded Data Analyst` using [Julia](https://julialang.org/), [Python](https://www.python.org/) and maybe [R](https://www.r-project.org/).
+Learn `The Well-Grounded Data Analyst` using [Julia](https://julialang.org/), [Python](https://www.python.org/) and [R](https://www.r-project.org/).
 
 The original Python repo is: [https://github.com/davidasboth/the-well-grounded-data-analyst](https://github.com/davidasboth/the-well-grounded-data-analyst).
 
 ## Python
+
+Python version: 3.14
 
 Using [Jupyter](https://jupyter.org/) notebook and the following packages:
 
@@ -11,6 +13,8 @@ Using [Jupyter](https://jupyter.org/) notebook and the following packages:
 - [Lets-Plot](https://lets-plot.org/): Multiplatform plotting library built on the principles of the Grammar of Graphics.
 
 ## Julia
+
+Julia version: 1.12
 
 Using [Pluto](https://plutojl.org/) notebook and the following packages:
 
@@ -21,3 +25,11 @@ Using [Pluto](https://plutojl.org/) notebook and the following packages:
 - [StatsBase.jl](https://juliastats.org/StatsBase.jl/stable/): Basic statistics for Julia.
 - [PrettyTables.jl](https://ronisbr.github.io/PrettyTables.jl/stable/): Print data in formatted tables.
 - [FreqTables.jl](https://github.com/nalimilan/FreqTables.jl): Frequency tables in Julia.
+
+## R
+
+R version: 4.6
+
+Using plain R files with [RStudio](https://posit.co/products/open-source/rstudio) and the following packages:
+
+- [tidyverse](https://tidyverse.org/): R packages for data science.
